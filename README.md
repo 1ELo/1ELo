@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://danielhendra13.notion.site/Daniel-Hendra-Susanto-el-s-Portfolio-1332c6ba161c8079b0a1c086c6225fae?pvs=4)
 
-- 📫 How to reach me: **hendradaniel@gmail.com** / **daniel.susanto001@binus.ac.id**
+- 📫 How to reach me: **hendradaniel61@gmail.com** / **daniel.susanto001@binus.ac.id**
 
 ---
 
