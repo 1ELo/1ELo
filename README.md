@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Hendra Susanto</h1>
-<h3 align="center">Undergraduate Computer Science Student @ Binus University</h3>
+<h3 align="center">Back End Developer & AI Enthusiast</h3>
 
 
-
-- 🔭 I’m currently working on **Threelights Barbershop Mobile Apps**
-
-- 🌱 I’m currently learning **Dart, Kotlin, Flutter, Supabase, NodeJS**
+- 🌱 I’m currently builing first big project, that i'm planning to deploy it on playstore this year !
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://danielhendra13.notion.site/Daniel-Hendra-Susanto-el-s-Portfolio-1332c6ba161c8079b0a1c086c6225fae?pvs=4)
 
